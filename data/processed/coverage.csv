@@ -1,0 +1,25 @@
+key,value
+advertiser_spend_weekly,300611319
+advertiser_rows_weekly,154301
+location_spend_weekly,301341236
+location_rows_weekly,1310
+region_spend_weekly,276382659
+region_rows,3285468
+advertiser_spend_lifelong,5347140271
+advertiser_rows_lifelong,561380
+location_spend_lifelong,5330681077
+num_ads_weekly,3538542
+zero_rows_weekly,73604
+zero_row_ads,213354
+positive_row_spend,300611319
+positive_row_ads,3325188
+n_weeks,23
+overlap_week_spend,15329496
+post_snapshot_spend,285281823
+lifelong_pairs,575956
+new_pairs,6121
+new_pair_spend,59496512
+pairs_with_lifelong_spend,198367
+lifelong_spend_with_no_post_activity,3513174873
+state_spend_total,301341236
+missing_location_note,2025-12-08 northern mariana islands (that geography sums to $0 in the weeks it is present)

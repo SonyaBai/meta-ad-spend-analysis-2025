@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Rebuilt by sql/load_sqlite.py
+*.db
+
+# Kaggle extract. python scripts/download_data.py writes this.
+data/raw/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local run output
+outputs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
